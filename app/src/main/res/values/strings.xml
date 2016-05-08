@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BullDog</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_submit">Submit</string>
+    <string name="text">Share Your Feelings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
